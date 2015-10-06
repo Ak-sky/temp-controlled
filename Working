@@ -3,7 +3,7 @@ that cools air through the evaporation of water. Sometimes noisy too due to the 
 
 To make it temperature controlled one temperature sensor is kept in front of the window of the cooler which will sense
 the current room temperature and is used for switching on/off for the cooler. The temperature range is between 24 to 30 taken as
-optimal temperature which is given by the user.
+optimal temperature which is given by the user.All setup is connected to Raspberry Pi.
 
 Also an 8X8 LED Matrix is attached to monitor the current room temperature.
 
