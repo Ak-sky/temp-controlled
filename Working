@@ -1,1 +1,31 @@
-working
+An evaporative cooler (also swamp cooler, desert cooler and wet air cooler) is a device 
+that cools air through the evaporation of water. Sometimes noisy too due to the spinning motor and loose fittings.
+
+To make it temperature controlled one temperature sensor is kept in front of the window of the cooler which will sense
+the current room temperature and is used for switching on/off for the cooler. The temperature range is between 24 to 30 taken as
+optimal temperature which is given by the user.
+
+Also an 8X8 LED Matrix is attached to monitor the current room temperature.
+
+
+System flow-
+
+1- When is the python code is executed on the terminal it will first display the current room temperature in degree C and 
+   ask the user to enter the desirable temperature to be maintained for the room in the range >=24 and <=30.
+
+2- If the temp range is out of the range it will display the message "Wrong Input" and will ask the user again to input the  
+   temperature value.
+   
+3- If the user input temperature is within the range then it will display the message "Good to go" and keep on checking the 
+   current room temperature against the user given temperature.
+   
+Use case-
+   
+    1- if the current room temperature is 26 C and the user input is 28 C the cooler will be in on state till it reaches the user
+       given temperature.
+      
+    2- if the current room temp is 28 C and the user input is also 28 C the cooler will run till it reaches the 28-2 C temp
+      which is 26 C. This is because the temperature sensor is very sensitive and to maintain the user given temperature
+      it has to run at least for 2 C less.
+      
+    3- if the current room temperature is 28 and the user input is 26 the cooler will be in off state.  
