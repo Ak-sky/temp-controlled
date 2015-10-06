@@ -44,9 +44,6 @@ def read_temp():
 def fuc2():		
 	while True:
 			print('C T is ',str("%.2f" % read_temp())+ "`C")
-#			curr_temp=read_temp()
-#			curr_temp_str = str("%.2f" % curr_temp)
-#			print("Current temp is ",curr_temp_str)
 			a=input("Enter the temperature value between 24 & 30: ")
 			if a>=24 and a<=30:
 				print("Good to go")
