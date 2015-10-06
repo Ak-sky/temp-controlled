@@ -48,7 +48,7 @@ def fuc2():
 #			curr_temp_str = str("%.2f" % curr_temp)
 #			print("Current temp is ",curr_temp_str)
 			a=input("Enter the temperature value between 24 & 30: ")
-			if a>=24 and a<=34:
+			if a>=24 and a<=30:
 				print("Good to go")
 				break
 				
