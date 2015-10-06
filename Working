@@ -10,7 +10,7 @@ Also an 8X8 LED Matrix is attached to monitor the current room temperature.
 
 System flow-
 
-1- When is the python code is executed on the terminal it will first display the current room temperature in degree C and 
+1- When the python code is executed on the terminal it will first display the current room temperature in degree C and 
    ask the user to enter the desirable temperature to be maintained for the room in the range >=24 and <=30.
 
 2- If the temp range is out of the range it will display the message "Wrong Input" and will ask the user again to input the  
