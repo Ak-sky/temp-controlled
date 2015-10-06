@@ -5,7 +5,7 @@ NOTE: Please read the issues.
 
 The whole setup
 
-![Alt text](https://cloud.githubusercontent.com/assets/4889052/10322209/688e8d24-6c9a-11e5-9090-3b6fa2145d84.jpg)
+![Alt text](https://cloud.githubusercontent.com/assets/4889052/10322389/125af07c-6c9b-11e5-93bc-b13b30ea4fd8.jpg)
 
 Raspberry 
 
