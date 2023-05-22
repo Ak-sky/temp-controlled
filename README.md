@@ -1,4 +1,3 @@
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Ak-sky)](https://github.com/LordDashMe/github-contribution-stats/)
 # temp-controlled
 Temperature controlled swamp cooler with MAX7219 LED Matrix temperature display.
 
