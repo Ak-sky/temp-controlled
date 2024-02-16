@@ -10,7 +10,7 @@ import RPi.GPIO as GPIO
 import threading
 from threading import Thread
 
-# TEST GPG
+# TEST GPG 1
 
 GPIO.setwarnings(False)
 GPIO.setmode(GPIO.BCM)
