@@ -3,7 +3,7 @@ Temperature controlled swamp cooler with MAX7219 LED Matrix temperature display.
 
 NOTE: Please read the issues.
 
-The whole setup:-
+The whole setup :-
 
 ![Alt text](https://cloud.githubusercontent.com/assets/4889052/10322389/125af07c-6c9b-11e5-93bc-b13b30ea4fd8.jpg)
 
