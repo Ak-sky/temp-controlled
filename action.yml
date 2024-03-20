@@ -1,5 +1,5 @@
 name: sky action 1
-description: This action is demo
+description: This action is not demo
 runs:
   using: node16
   main: temp_controll_relay.py
