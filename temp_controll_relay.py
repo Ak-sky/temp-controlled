@@ -12,6 +12,7 @@ from threading import Thread
 
 # TEST GPG 1
 # EST GPG 2
+test
 
 GPIO.setwarnings(False)
 GPIO.setmode(GPIO.BCM)
